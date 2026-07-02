@@ -1,18 +1,13 @@
 Names=[]
 Ages=[]
 CGPA=[]
-Outputs=[]
-for i in range(2):
+for i in range(3):
     name=input("enter the name")
     age=int(input("enter the age"))
-    cgpa=float(input("enter the CGPA"))
-    
+    cgpa=float(intpu("enter the C"))
 
     Names.append(name)
     Ages.append(age) 
-    CGPA.append(cgpa)
-   
     
 print("Name",Names)
 print("Ages",Ages)
-print("CGPA",CGPA)

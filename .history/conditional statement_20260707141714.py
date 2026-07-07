@@ -5,6 +5,4 @@ if Mark>90:
 elif Mark>75 & Mark<85:
     print("B")
 elif Mark>50 & Mark<74:
-    print("C")
-elif Mark<50:
-    print("fail")        
+    p    

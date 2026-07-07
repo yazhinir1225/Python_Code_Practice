@@ -11,5 +11,3 @@ current=int(input("enter the currect amoutn"))
 withdraw=int(intput("enter the withdraw amount "))
 """
 print(20//6)
-print(20%6)
-print(5**2)

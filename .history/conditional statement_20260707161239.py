@@ -1,0 +1,16 @@
+Name=input("Enter the name")
+Mark=int(input("Enter the mark"))
+if Mark>=90:
+    print("A")
+elif Mark>=75 and Mark<85:
+    print("B")
+elif Mark>=50 and Mark<74:
+    print("C")
+elif Mark<50:
+    print("fail")        
+
+age=int(input("Enter the age"))
+if(age>18):
+    print("can vote")
+else:
+    print("cannot vote")    

@@ -8,3 +8,4 @@ elif Mark>50 & Mark<74:
     print("C")
 elif Mark<50:
     print("fail")        
+a

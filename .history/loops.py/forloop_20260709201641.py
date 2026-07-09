@@ -8,7 +8,7 @@ for i in range(3):
     cgpa=float(input("Enter CGPA:"))
     city=input("Enter City:")
     Names.append(name)
-    Ages.append(age)
+    Ages.append(Age)
     CGPAs.append(cgpa)
     Cities.append(city)
 

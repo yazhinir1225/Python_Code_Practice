@@ -1,0 +1,4 @@
+Name=[]
+Ages=[]
+CGPAs=[]
+Cities

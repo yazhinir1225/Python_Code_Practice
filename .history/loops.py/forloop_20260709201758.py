@@ -8,7 +8,7 @@ for i in range(3):
     cgpa=float(input("Enter CGPA:"))
     city=input("Enter City:")
     Names.append(name)
-    Ages.append(age)
+    Ages.append(Age)
     CGPAs.append(cgpa)
     Cities.append(city)
 
@@ -18,8 +18,10 @@ print(Ages)
 print(CGPAs)
 print(Cities)
 
-print(name.upper())
-print(city.lowercase())
+for name in Names:
+    print(name.upper())
+for city in Cities:
+print(city.lower())
 
 if cgpa>7.5:
     print(name,"Elegoble for placement")

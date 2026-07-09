@@ -24,7 +24,7 @@ print(city.lowercase())
 if cgpa>7.5:
     print(name,"Elegoble for placement")
 else:
-    print(name,"Not eligible for placement")    
+    print(name,)    
 
 
 #for cities in range("Chennai"):

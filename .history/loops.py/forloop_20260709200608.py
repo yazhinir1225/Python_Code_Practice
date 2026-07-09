@@ -17,18 +17,3 @@ print(Names)
 print(Ages)
 print(CGPAs)
 print(Cities)
-
-print(name.upper())
-print(city.lowercase())
-
-if cgpa>7.5:
-    print(name,"Elegoble for placement")
-else:
-    print(name,"Not eligible for placement")    
-
-
-#for cities in range("Chennai"):
-if Cities in "Chennai":
-    print("Chennai Found")
-else:
-    print("Chennai Not Found")    
